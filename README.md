@@ -11,6 +11,6 @@ Esse é Efi atualizado, OpenCore 0.9.2, com todos o kexts para este notebook da 
 * Placa rede Wifi de Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1766), não a que vem no notebook.
 * Mapeamento das portas Usb.
 
-## 🚀  Versão do Sistema:	macOS 13.2.1 (22D68) 🚀
+## 🚀  Versão do Sistema:	macOS 13.4 (22F66) 🚀
 
-Atualização das ACPIs. e do Config.plist, resouvento os problemas da erro, usando o SSDT-XOSI, assim nortei uma grade melhora no desenho grafico do sistema.
+Atualização das ACPIs, resouvento os problemas da erro do Config.plist, usando o SSDT-XOSI, assim nortei uma grade melhora no desenho grafico do sistema.
