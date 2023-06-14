@@ -1,6 +1,6 @@
 # Efi do Dell Inspiron 15 3567.
 
-Esse é Efi atualizado, OpenCore 0.9.2, com todos o kexts para este notebook da Dell os seguinte requisitos.  
+Esse é Efi atualizado, OpenCore 0.9.3, com todos o kexts para este notebook da Dell os seguinte requisitos.  
 
 ### Os requisitos são:
 
