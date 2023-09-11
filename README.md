@@ -1,6 +1,6 @@
 # Efi do Dell Inspiron 15 3567.
 
-Esse é Efi atualizado, OpenCore 0.9.3, com todos o kexts para este notebook da Dell os seguinte requisitos.  
+Esse é Efi atualizado, OpenCore 0.9.5, com todos o kexts para este notebook da Dell os seguinte requisitos.  
 
 ### Os requisitos são:
 
@@ -11,6 +11,6 @@ Esse é Efi atualizado, OpenCore 0.9.3, com todos o kexts para este notebook da 
 * Placa rede Wifi de Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1766), não a que vem no notebook.
 * Mapeamento das portas Usb.
 
-## 🚀  Versão do Sistema:	macOS 13.4 (22F66) 🚀
+## 🚀  Versão do Sistema:	macOS 13.5.2 (22G91) 🚀
 
 Atualização das ACPIs, resouvento os problemas da erro do Config.plist, usando o SSDT-XOSI, assim nortei uma grade melhora no desenho grafico do sistema.
